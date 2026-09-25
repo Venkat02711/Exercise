@@ -4,7 +4,6 @@
 #include <stdio.h>
 
 int xa = 1, ya = 2;
-int xb = 10, yb = 20;
 
 void init(void) {
     glClearColor(0.0, 0.0, 0.0, 1.0);
